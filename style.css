@@ -56,7 +56,7 @@ body {
   z-index: 100;
 }
 
-#ichnusa1 {
+#tennents1 {
   position: absolute;
   top: 70%;
   left: 5%;
@@ -64,7 +64,7 @@ body {
 
 }
 
-#ichnusa2 {
+#tennents2 {
   position: absolute;
   top: 70%;
   left: 10%;
@@ -72,7 +72,7 @@ body {
 
 }
 
-#ichnusa3 {
+#tennents3 {
   position: absolute;
   top: 70%;
   left: 15%;
@@ -101,9 +101,9 @@ body {
 }
 
 
-#ichnusa1.wiggle,
-#ichnusa2.wiggle,
-#ichnusa3.wiggle
+#tennents1.wiggle,
+#tennents2.wiggle,
+#tennents3.wiggle
  {
    transform: rotate(30deg);
 }
