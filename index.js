@@ -118,7 +118,7 @@ $(document).ready(function () {
 
   function beer() {
     setInterval(function () {
-      $('.tennents').toggleClass('  e');
+      $('.tennents').toggleClass('wiggle');
     }, 520);
   }
 
